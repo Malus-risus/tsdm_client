@@ -83,7 +83,7 @@ dependencies:
 dev_dependencies:
   build_runner: ^2.4.14
   # Blocked by flutter_l18n, analyzer and collection
-  custom_lint: ^0.6.8
+  custom_lint: ^0.7.0
   dart_mappable_builder: ^4.3.0
   flutter_launcher_icons: ^0.14.2
   flutter_test:
